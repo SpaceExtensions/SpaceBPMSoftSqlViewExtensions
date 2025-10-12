@@ -4,17 +4,21 @@
   <h3 align="center">SqlViewExtensions</h3>
 
   <p align="center">
-    Решение для преобразования low-code генераторов запросов в SQL
+    <h3 align="center">Решение для преобразования low-code фильтров в текст SQL запроса</h3>
+    <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=5194f0" >
+    <img src="https://img.shields.io/badge/bpmsoft-1.7.1.4-orange" >
   </p>
 </div>
+
+
 
 ## О расширении
 Решение представлено в виде стандартного пакета для CRM BPMSoft.
 
 Решение содержит три основных блока:
-* Преобразование в SQL low-code запросов из действий в дизайнере бизнес-процессов (Читать, Изменить и Удалить данные)
-* Преобразование в SQL low-code запросов из разделов
-* Преобразование в SQL из EntitySchemaQuery фронтового кода
+* Преобразование в SQL low-code фильтров из действий в дизайнере бизнес-процессов (Читать, Изменить и Удалить данные)
+* Преобразование в SQL low-code фильтров из разделов (В разработке)
+* Преобразование в SQL из EntitySchemaQuery фронтового кода (В разработке)
 
 ## Дизайнер процессов
 <img width="1625" height="973" alt="image" src="https://github.com/user-attachments/assets/f724583c-463b-4f38-a95c-7cf347a714a4" />
