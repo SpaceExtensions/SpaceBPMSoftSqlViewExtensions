@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "9bc5efed-3532-0d3e-7a4a-5e267f49d7f7",
+    "Name": "SpaceBPMSoftSqlViewExtensions",
+    "BPMSoftVersion": "1.7.1",
+    "ModifiedOnUtc": "\/Date(1760294789000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "6f46362b-0d60-47d7-b211-fc5e4117aecb",
+        "PackageVersion": "1.0.0",
+        "Name": "ProcessDesigner"
+      }
+    ]
+  }
+}
