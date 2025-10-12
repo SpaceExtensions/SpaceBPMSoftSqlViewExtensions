@@ -1,0 +1,51 @@
+.tooltip {
+	position: absolute;
+	vertical-align: top;
+	display: inline-block;	
+	opacity: 0;
+	padding: 20px 5px;
+	text-transform: none;
+	transition: all 0.75s ease;
+}
+
+.tooltip::after {
+	content: 'Скопировано';
+}
+
+.tooltip.active {
+	opacity: 1;	
+}
+
+.source-code-edit-page-container { 
+	.source-code-edit-expandable-container {
+		.source-code-edit-container {
+			.space-source-code-edit-control-wrap-container {
+				position: relative;
+				height: 100%;
+				flex-basis: 100%;
+				padding-left: 0;
+
+				.base-edit-input.ace-edit {
+					font-family: 'Courier';
+					border: 1px solid #D8DBE2;
+					border-radius: 8px;
+				}
+
+				.base-edit.source-code-edit {
+					position: absolute;
+					left: 0;
+					top: 0;
+					right: 0;
+					bottom: 0;
+					border: none !important;
+					padding: 0;
+				}
+			}
+		}
+	}
+}
+
+.copy-button .t-btn-image{
+	width: 32px !important;
+	height: 32px !important;
+}

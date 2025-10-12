@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "314b1083-1158-4c0b-a892-5a87fe601adc",
+    "Name": "ReadDataUserTaskPropertiesPage",
+    "ModifiedOnUtc": "\/Date(1760295306000)\/",
+    "Parent": {
+      "UId": "5e64f089-f6db-4cfe-92dd-33246ca806e5",
+      "Name": "ReadDataUserTaskPropertiesPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ReadDataUserTaskPropertiesPage"
+  }
+}

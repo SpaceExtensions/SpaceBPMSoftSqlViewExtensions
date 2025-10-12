@@ -1,0 +1,43 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "99dafab2-db33-4ce3-8c5f-2ffcbb9d8598",
+      "A2": "SqlSourceCodeEditPage",
+      "A5": "b9a66fb4-a3ce-4607-bdaf-0f065ea1371d",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "9bc5efed-3532-0d3e-7a4a-5e267f49d7f7",
+      "B8": "1.7.1.4",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 2,
+      "HD6": "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:BPMSoft.SchemaType.EDIT_VIEW_MODEL_SCHEMA,entitySchema:'',name:'',extend:'BPMSoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [
+        {
+          "UId": "3b6a53f2-92ee-84b9-75dd-172564651445",
+          "A2": "CollapseImage",
+          "A3": "99dafab2-db33-4ce3-8c5f-2ffcbb9d8598",
+          "A4": "99dafab2-db33-4ce3-8c5f-2ffcbb9d8598"
+        },
+        {
+          "UId": "e4d30d22-e34a-9dac-58fd-a10e8d796b67",
+          "A2": "ExpandImage",
+          "A3": "99dafab2-db33-4ce3-8c5f-2ffcbb9d8598",
+          "A4": "99dafab2-db33-4ce3-8c5f-2ffcbb9d8598"
+        },
+        {
+          "UId": "b98759e0-41ab-6bea-2aab-87e889a14287",
+          "A2": "CopyImage",
+          "A3": "99dafab2-db33-4ce3-8c5f-2ffcbb9d8598",
+          "A4": "99dafab2-db33-4ce3-8c5f-2ffcbb9d8598"
+        }
+      ],
+      "HD11": [],
+      "HD20": [],
+      "HD21": []
+    }
+  }
+}

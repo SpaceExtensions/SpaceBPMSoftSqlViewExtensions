@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "18efdcf7-f274-452f-9c6e-975b6ac84583",
+    "Name": "DeleteDataUserTaskPropertiesPage",
+    "ModifiedOnUtc": "\/Date(1760295361000)\/",
+    "Parent": {
+      "UId": "ce14ea36-c284-46c4-9489-42ae21e2ac85",
+      "Name": "DeleteDataUserTaskPropertiesPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "DeleteDataUserTaskPropertiesPage"
+  }
+}

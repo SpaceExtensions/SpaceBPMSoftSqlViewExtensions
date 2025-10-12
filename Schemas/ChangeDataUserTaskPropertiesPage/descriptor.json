@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "dc81a36f-cef1-4a31-b404-345d5d513ef4",
+    "Name": "ChangeDataUserTaskPropertiesPage",
+    "ModifiedOnUtc": "\/Date(1760295331000)\/",
+    "Parent": {
+      "UId": "f9c58aa4-3c7c-4266-a967-013164e169f1",
+      "Name": "ChangeDataUserTaskPropertiesPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ChangeDataUserTaskPropertiesPage"
+  }
+}
