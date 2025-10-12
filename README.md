@@ -4,6 +4,9 @@
   <h3 align="center">SqlViewExtensions</h3>
 
   <p align="center">
+    <a href="[https://github.com/othneildrew/Best-README-Template](https://github.com/SpaceExtensions/SpaceBPMSoftSqlViewExtensions)">
+      <img src="Images/Logo.png" alt="Logo" width="160" height="160">
+    </a>
     <h3 align="center">Решение для преобразования low-code фильтров в текст SQL запроса</h3>
     <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=5194f0" >
     <img src="https://img.shields.io/badge/bpmsoft-1.7.1.4-orange" >
