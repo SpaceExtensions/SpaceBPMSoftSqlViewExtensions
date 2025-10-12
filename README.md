@@ -22,7 +22,7 @@
 <!-- LICENSE -->
 ## Лицензия
 
-Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+Distributed under the Unlicense License. See `LICENSE` for more information.
 
 ## Контакты
 
